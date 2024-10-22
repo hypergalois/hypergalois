@@ -44,25 +44,6 @@
       animation: wait 6.7s, msg-3 0.2s 6.7s;
     }
 
-    .typing-4 {
-      opacity: 0;
-      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
-    }
-
-    .msg-4 {
-      animation: wait 9.2s, msg-4 0.2s 9.2s;
-    }
-
-    .msg-5 {
-      animation: wait 11.7s, msg-5 0.2s 11.7s;
-    }   
-    
-    .typing-5 {
-      opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
-    }    
-      
-    
     @keyframes wait {
       0%,
       100% {
@@ -113,28 +94,6 @@
         transform: translate(10px, 120px);
       }
     }
-
-    @keyframes msg-4 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 197px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 192px);
-      }
-    }
-
-    @keyframes msg-5 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 245px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 240px);
-      }
-    } 
     
     @media (prefers-color-scheme: dark) {
       .bubble {
