@@ -210,9 +210,9 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">MLOps Engineer and Mathematician ✨</text>
-    <text x="15" y="50">Now researching AI assurance for security-critical systems</text>
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Software Engineer and Mathematician ✨</text>
+    <text x="15" y="50">Researching AI assurance for security-critical systems</text>
   </g>
 
   <g transform="translate(10, 120)" class="typing-3">
