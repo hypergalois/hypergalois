@@ -210,7 +210,7 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="370" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Software Engineer and Mathematician ✨</text>
     <text x="15" y="50">Researching PQC and ML</text>
   </g>
